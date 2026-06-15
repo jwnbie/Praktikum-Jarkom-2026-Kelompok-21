@@ -97,5 +97,3 @@ Topologi ini merupakan simulasi jaringan *enterprise* yang menghubungkan Jakarta
   - [Screenshot Akses Web Server Jakarta dari Surabaya]
   - [Analisis Singkat Jalur Traffic]
 
----
-*Dikerjakan oleh: [Sebutkan Nama Kelompok]*
